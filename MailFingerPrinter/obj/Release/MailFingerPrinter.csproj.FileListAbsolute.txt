@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\MailFingerPrinter\MailFingerPrinter\bin\Release\MailFingerPrinter.exe.config
+C:\Users\Administrator\Desktop\MailFingerPrinter\MailFingerPrinter\bin\Release\MailFingerPrinter.exe
+C:\Users\Administrator\Desktop\MailFingerPrinter\MailFingerPrinter\bin\Release\MailFingerPrinter.pdb
+C:\Users\Administrator\Desktop\MailFingerPrinter\MailFingerPrinter\obj\Release\MailFingerPrinter.Properties.Resources.resources
+C:\Users\Administrator\Desktop\MailFingerPrinter\MailFingerPrinter\obj\Release\MailFingerPrinter.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\MailFingerPrinter\MailFingerPrinter\obj\Release\MailFingerPrinter.exe
+C:\Users\Administrator\Desktop\MailFingerPrinter\MailFingerPrinter\obj\Release\MailFingerPrinter.pdb
+C:\Users\Administrator\Desktop\MailFingerPrinter\MailFingerPrinter\obj\Release\MailFingerPrinter.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MailFingerPrinter\MailFingerPrinter\obj\Release\MailFingerPrinter.FingerPrinterForm.resources
