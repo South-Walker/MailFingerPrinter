@@ -1,0 +1,15 @@
+This request has been pending your approval for  4 days.  Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000067752&Page=Approval to review and act upon this request.
+
+
+
+
+
+Request ID          : 000000000067752
+Request Create Date : 10/12/01 2:14:27 PM
+Requested For       : mike.roan@enron.com
+Resource Name       : Global Messaging North America Additional Mailbox Space (25 Meg Increase)
+Resource Type       : Applications
+
+
+
+

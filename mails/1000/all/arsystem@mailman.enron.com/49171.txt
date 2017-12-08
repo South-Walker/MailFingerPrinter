@@ -1,0 +1,15 @@
+You have received this email because you are listed as an alternate data approver. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000076605&Page=Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000076605
+Approver            : sandeep.kohli@enron.com
+Request Create Date : 11/19/01 11:28:43 AM
+Requested For       : janelle.russell@enron.com
+Resource Name       : \\\\enehou\\houston\\common\\Research - [Read]
+Resource Type       : Directory
+
+
+
+

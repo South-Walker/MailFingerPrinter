@@ -1,0 +1,27 @@
+This is a new interconnect into the suction side of WT-1.  I think the capacity is going to be approximately
+50,000 mmbtu.  This may be able to flow sometime this or next. 
+
+DS
+---------------------- Forwarded by Darrell Schoolcraft/ET&S/Enron on 06/06/2001 09:58 AM ---------------------------
+
+ 	Karen Brostad 06/06/2001 08:46 AM 	
+
+To:	Linda Trevino/ET&S/Enron@ENRON, Perry Frazier/ET&S/Enron@ENRON, James Moore/ET&S/Enron, John Buchanan/ET&S/Enron@ENRON, Dennis Lee/ET&S/Enron@ENRON, Darrell Schoolcraft/ET&S/Enron@ENRON, Gary Spraggins/ET&S/Enron@ENRON, Linda Ward/ET&S/Enron@ENRON, Beverly Miller/ET&S/Enron@ENRON, Cynthia Rivers/ET&S/Enron@ENRON, Sigrid MacPherson/GPGFIN/Enron, Terry Kowalke/ET&S/Enron@ENRON, Albert Hernandez/ET&S/Enron@ENRON, Dale Eldridge/ET&S/Enron@ENRON, Amy Mulligan/ET&S/Enron@ENRON, Vernon Mercaldo/ET&S/Enron, Donald Vignaroli/ET&S/Enron, Bret Fritch/ET&S/Enron, Gale Ramsaran/ET&S/Enron@ENRON, Michelle Lokay/ET&S/Enron, Tammy Jaquet/ET&S/Enron, Mary Draemer/ET&S/Enron, James Studebaker/FGT/Enron, Lorraine Lindberg/ET&S/Enron, Jeffery Fawcett/ET&S/Enron, Martha Cormier/ET&S/Enron@ENRON
+cc:	 
+
+Subject:	TW/Duke Energy Wt1 Rec
+
+The following new point has been added to Transwestern POI system effective 6/1/01.
+
+POI Name	TW/Duke Energy WT-1 Rec
+POI TYpe	PDC
+DRN #		296410
+Station #	10186
+Location	Sec 31, T20S, R32E, Lea County, NM
+
+The transport contract that will use this point initially is CR# 27639
+
+
+
+ 
+

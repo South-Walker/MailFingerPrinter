@@ -1,0 +1,21 @@
+If you would let me know of any changes to existing contracts or new contracts, I will input the rates.
+
+TK
+
+ -----Original Message-----
+From: 	Moore, Jan  
+Sent:	Thursday, November 15, 2001 10:13 AM
+To:	Lindberg, Lorraine; Lohman, TK; Lokay, Michelle; McConnell, Mark; Y'Barbo, Paul
+Subject:	Rates Changes
+
+
+Keep in mind that when you do amendments to move primary points around, the rate must be changed in CBS for the corresponding new paths.  Otherwise, CBS reflects  max rates.
+
+It would also be helpful when a new contract is executed that the rate be put in CBS; otherwise, again CBS reflects max rates.
+
+It is important to get these rates in CBS as the forecasting model pulls all rate information from CBS.  If CBS reflects max rates the revenues will be grossly over estimated.
+
+Thanks for your help!  
+
+
+Jan

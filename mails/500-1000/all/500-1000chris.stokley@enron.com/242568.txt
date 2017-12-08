@@ -1,0 +1,18 @@
+Pete,
+	Please take me off of the distribution list for this e-mail.
+			
+				Thanks
+				  me
+
+-----Original Message-----
+From: 	Meters~1 [mailto:MeterScout@ect.enron.com] 
+Sent:	Thursday, October 25, 2001 8:18 AM
+To:	Reyes, Jim
+Cc:	mstokle@enron.com; Davis, Pete; Cavanaugh, Darren
+Subject:	Generation Meter Data Imported: Effective Date: 10/20/01
+
+
+Processing Generation Meter Data for Effective Date: 10/20/01
+Data file has been sent to ISO.
+Generation Meter Data was successfully imported.
+

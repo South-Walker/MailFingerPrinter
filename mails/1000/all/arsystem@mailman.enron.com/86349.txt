@@ -1,0 +1,14 @@
+You have received this email because you are listed as a data approver. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000082032&Page=Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000082032
+Request Create Date : 1/31/02 9:10:49 AM
+Requested For       : larry_cash@enron.net
+Resource Name       : Enpower North America West Production Audit_Viewer
+Resource Type       : Applications
+
+
+
+

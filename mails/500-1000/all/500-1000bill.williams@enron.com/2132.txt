@@ -1,0 +1,29 @@
+Very GOOD!
+
+ -----Original Message-----
+From: 	Symes, Kate  
+Sent:	Tuesday, July 31, 2001 8:59 AM
+To:	DL-Portland Real Time Shift
+Cc:	Gang, Lisa
+Subject:	EPE Lending for 8/1
+
+For Wednesday:
+
+We're short tomorrow on peak at Palo Verde - 25 mw under STWBOM, 25 mw under STSW. Please puchase to fill these schedules; reduce the purchases from EPE to $4 (711216 and 711225); sell back to EPE at $0. You will know you've done this correctly when the CARP report EXACTLY matches the El Paso model. Following are the details of the lending agreement:
+
+711216 - STWBOM buys EPE
+	 On Peak @ PV
+	 25 MW @ $51
+
+711224 - STWBOM sells STSW
+	 On Peak @ PV
+	 25 MW @ $51
+
+711225 - STSW buys EPE
+	 On Peak @ PV
+	 25 MW @ $51
+
+Please let me know if you have any questions. I can always be reached on my cell phone - 503-819-2181.
+
+Thanks,
+Kate

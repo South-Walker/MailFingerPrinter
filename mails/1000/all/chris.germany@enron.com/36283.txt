@@ -1,0 +1,9 @@
+I made the following changes to these deal tickets in Sitara.
+
+Deal		Contract	Change		
+1190838	1339		changed end date from 10/31/05 to 1/17/02, this was an agency contract with Louisiana Gas Services
+
+1190859	2076		changed end date from 10/31/02 to 1/17/02, this was an agency contract with Louisiana Gas Servicews
+
+1190861	2210		changed end date form 10/31/02 to 2/8/02, this was an agency contract with Reliant Energy Services.
+

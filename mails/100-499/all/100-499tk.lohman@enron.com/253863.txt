@@ -1,0 +1,14 @@
+Company - Dynegy
+Term - December 2001
+Path - SJ Blanco to Socal Needles
+Volume - 13,500 mmbtu/day
+Rate - $1.11
+
+Company - Dynegy
+Term - November 2002 through December 2002
+Path - SJ Blanco to Socal Needles
+Volume - 21,500 mmbtu/day
+Rate $1.00
+
+Space still available at Needles is 13,500 mmbtu/day for November 2001.  This space can only be sourced with East of Thorea  supply.
+

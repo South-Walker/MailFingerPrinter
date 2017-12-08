@@ -1,0 +1,13 @@
+Take a look at this document. The section with major players is the one with the utilities that are tied to an index, however, there are some minor utilities that are not covered in that list. Do you think that we need the minor utilities?
+
+ 
+					Chris
+
+
+ -----Original Message-----
+From: 	Ruffer, Mary Lynne  
+Sent:	Wednesday, July 25, 2001 6:24 AM
+To:	Stokley, Chris
+Subject:	PJM
+
+Were you able to get the utility names for PJM?

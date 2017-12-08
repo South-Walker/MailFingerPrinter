@@ -1,0 +1,18 @@
+You have received this email because you are listed as an alternate data 
+approver. Please click 
+http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000013287&Page=
+Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000013287
+Approver            : stinson.gibner@enron.com
+Request Create Date : 1/10/01 5:57:18 PM
+Requested For       : rakesh.bharati@enron.com
+Resource Name       : \\\\enehou\\houston\\common\\Research - [Read/Write]
+Resource Type       : Directory
+
+
+
+

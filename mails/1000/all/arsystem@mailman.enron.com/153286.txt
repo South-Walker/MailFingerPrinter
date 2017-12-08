@@ -1,0 +1,14 @@
+You have received this email because the requester specified you as their Manager. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000061279&Page=Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000061279
+Request Create Date : 9/20/01 11:47:26 AM
+Requested For       : elizabeth.sager@enron.com
+Resource Name       : Live Link ENA
+Resource Type       : Applications
+
+
+
+

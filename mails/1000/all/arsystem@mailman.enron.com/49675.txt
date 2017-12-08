@@ -1,0 +1,15 @@
+You have received this email because you are listed as an alternate data approver. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000071753&Page=Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000071753
+Approver            : sandeep.kohli@enron.com
+Request Create Date : 10/29/01 12:45:10 PM
+Requested For       : heather.a.johnson@enron.com
+Resource Name       : \\\\enehou\\houston\\common\\Research - [Read/Write]
+Resource Type       : Directory
+
+
+
+

@@ -1,0 +1,15 @@
+You have received this email because you are listed as an alternate data approver. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000080435&Page=Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000080435
+Approver            : phillip.m.love@enron.com
+Request Create Date : 1/7/02 9:45:46 AM
+Requested For       : kim.wilbanks@enron.com
+Resource Name       : \\\\enehou\\houston\\common\\ERMS\\1intra - [Read/Write]
+Resource Type       : Directory
+
+
+
+

@@ -1,0 +1,14 @@
+You have received this email because the requester specified you as their Manager. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000071386&Page=Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000071386
+Request Create Date : 10/26/01 1:13:46 PM
+Requested For       : andy.rodriquez@enron.com
+Resource Name       : Adobe Acrobat 5.0
+Resource Type       : Applications
+
+
+
+

@@ -1,0 +1,12 @@
+I making notes for the contract files as I come across special items.  There isn't anything for anyone to do with this information at this point.
+
+
+Pipe	Contract	MDQ		End Term	Demand		Sitara		Comment
+CGLF	63115		30,000		3/31/02		$2.6805 per month	1190657	recalled effective 2/5/02
+
+CGAS	71451		40,000		3/31/02		$3.02 per month		1190599	recalled effective 3/20/02
+
+I've printed all the information I could find on the EBB and put it in Maria's contract files.  I thought both contracts were non recallable but I don't remember.  The offer information on the EBB shows that both contracts were recallable but its possible that CGAS/CGLF changed this in the system since ENA has not been paying the bills.
+
+
+

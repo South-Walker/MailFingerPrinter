@@ -1,0 +1,15 @@
+This request has been pending your approval for  10 days.  Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000079466&Page=Approval to review and act upon this request.
+
+
+
+
+
+Request ID          : 000000000079466
+Request Create Date : 12/17/01 4:09:11 PM
+Requested For       : rodney.malcolm@enron.com
+Resource Name       : eConnect - VPN  Tier 2 - Full Access
+Resource Type       : Applications
+
+
+
+

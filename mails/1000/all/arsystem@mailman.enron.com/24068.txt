@@ -1,0 +1,17 @@
+You have received this email because you are listed as a security approver. 
+Please click 
+http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000008853&Page=
+Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000008853
+Request Create Date : 12/1/00 10:08:24 AM
+Requested For       : cheryl.ingstad@enron.com
+Resource Name       : EOL US Backoffice  Data Manager
+Resource Type       : Applications
+
+
+
+

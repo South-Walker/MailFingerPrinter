@@ -1,0 +1,16 @@
+This request has been pending approval for  2 days and you are the alternate.  Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000068908&Page=Approval to review and act upon this request.
+
+
+
+
+
+Request ID          : 000000000068908
+Approver            : sandeep.kohli@enron.com
+Request Create Date : 10/17/01 2:13:34 PM
+Requested For       : andrew.dickson@enron.com
+Resource Name       : \\\\enehou\\houston\\common\\Research - [Read/Write]
+Resource Type       : Directory
+
+
+
+

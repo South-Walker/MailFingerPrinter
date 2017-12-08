@@ -1,0 +1,16 @@
+This request has been pending approval for  16 days and you are the alternate.  Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000078934&Page=Approval to review and act upon this request.
+
+
+
+
+
+Request ID          : 000000000078934
+Approver            : sandeep.kohli@enron.com
+Request Create Date : 12/11/01 10:26:11 AM
+Requested For       : don.baughman@enron.com
+Resource Name       : \\\\enehou\\houston\\common\\Research - [Read]
+Resource Type       : Directory
+
+
+
+

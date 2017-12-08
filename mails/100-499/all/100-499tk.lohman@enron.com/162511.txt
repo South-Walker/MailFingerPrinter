@@ -1,0 +1,34 @@
+Paul, PNM's invoice should be fixed after Laura repaths this.  
+
+TK
+
+ -----Original Message-----
+From: 	Buehler, Craig  
+Sent:	Tuesday, November 13, 2001 2:35 PM
+To:	Giambrone, Laura; Lohman, TK
+Subject:	FW: 1-part Rate Problem w/ PMN K# 27606 
+
+Laura,
+
+	Would you please re-path this contract/invoice so the system will pick up the 1-part flag?  Thanks!
+
+Craig
+
+ -----Original Message-----
+From: 	Moore, Jan  
+Sent:	Tuesday, November 13, 2001 12:34 PM
+To:	Buehler, Craig
+Cc:	Brown, Elizabeth; Lee, Dennis
+Subject:	RE: 1-part Rate Problem w/ PMN K# 27606 
+
+Dennis just changed the flag last week.  It should now be creating a credit for commodity.
+
+ -----Original Message-----
+From: 	Buehler, Craig  
+Sent:	Tuesday, November 13, 2001 11:50 AM
+To:	Brown, Elizabeth; Moore, Jan
+Subject:	1-part Rate Problem w/ PMN K# 27606 
+
+TK called and says PNM K# 27606 is a 1-part deal, is flagged as a 1-part in CBS but isn't creating a credit for commodity... any ideas?
+
+Craig

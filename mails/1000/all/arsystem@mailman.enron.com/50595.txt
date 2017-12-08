@@ -1,0 +1,18 @@
+You have received this email because you are listed as an alternate data 
+approver. Please click 
+http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000005412&Page=
+Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000005412
+Approver            : stinson.gibner@enron.com
+Request Create Date : 10/23/00 8:49:45 AM
+Requested For       : brian.mihura@enron.com
+Resource Name       : \\\\enehou\\houston\\common\\Research - [Read/Write]
+Resource Type       : Directory
+
+
+
+

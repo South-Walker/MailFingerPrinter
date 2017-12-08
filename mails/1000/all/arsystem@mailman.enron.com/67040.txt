@@ -1,0 +1,14 @@
+You have received this email because you are listed as a data approver. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000082432&Page=Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000082432
+Request Create Date : 2/6/02 2:14:33 PM
+Requested For       : christina.sanchez@enron.com
+Resource Name       : Sitara Houston Production West Edit Logistics
+Resource Type       : Applications
+
+
+
+

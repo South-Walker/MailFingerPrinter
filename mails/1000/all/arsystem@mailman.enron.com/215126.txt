@@ -1,0 +1,14 @@
+You have received this email because the requester specified you as their Manager. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000063030&Page=Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000063030
+Request Create Date : 9/27/01 9:49:08 AM
+Requested For       : david.portz@enron.com
+Resource Name       : Live Link CORP
+Resource Type       : Applications
+
+
+
+

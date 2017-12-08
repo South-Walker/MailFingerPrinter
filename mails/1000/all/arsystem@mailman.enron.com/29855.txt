@@ -1,0 +1,14 @@
+You have received this email because you are listed as a data approver. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000049773&Page=Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000049773
+Request Create Date : 7/31/01 7:55:32 AM
+Requested For       : lisbet.newton@enron.com
+Resource Name       : Sitara Houston Production Texas Edit Logistics
+Resource Type       : Applications
+
+
+
+

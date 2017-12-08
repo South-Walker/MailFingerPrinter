@@ -1,0 +1,10 @@
+
+Thanks for the heads up
+ -----Original Message-----
+From: 	Prothro, Laura  
+Sent:	Thursday, October 11, 2001 3:47 PM
+To:	Stokley, Chris
+Cc:	O'Neil, Murray P.
+Subject:	MSAP meeting
+
+Regarding the meeting on Tuesday - MSAP is the system interface between Stat, Lodestar, HP, and Altra with SAP.  Currently we have a contractor monitoring the payment request files against the CSC electronic files, looking for duplicate payments, and sending the files to SAP.  He also manages issues that come up with CSC.  EES IT is in the process of moving the interface to a SQL server and should be done soon.  Since our IT is taking over the system aspects, we need someone permanent to take over the business aspects.  Mary Lynne and I were talking about the business functions that go along with monitoring this interface and think it has alot of settlement aspects, which might fit into Murray's world.  This meeting is just to talk about the responsibilities, where we think the best place is for it to reside and the transition.  

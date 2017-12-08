@@ -1,0 +1,17 @@
+You have received this email because you are listed as a data approver. 
+Please click 
+http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000007874&Page=
+Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000007874
+Request Create Date : 11/20/00 2:34:59 PM
+Requested For       : stewart.range@enron.com
+Resource Name       : EOL US Risk Management Application Product Data Manager
+Resource Type       : Applications
+
+
+
+

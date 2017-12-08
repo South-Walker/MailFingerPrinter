@@ -1,0 +1,19 @@
+
+
+ -----Original Message-----
+From: 	Symms, Neal  
+Sent:	Tuesday, July 24, 2001 6:39 AM
+To:	Stokley, Chris
+Subject:	Ranger docs
+
+Chris,
+
+Here's something to get you started.  Included is the original work request, #1692, which was our initial request for data from them.  It has been trimmed down somewhat so that we could get something within the timeframe we wanted.  Their latest response is in the ROM file.  The file "Ranger0712.zip" has the latest presentation given to us by CSC regarding this project.
+
+Neal
+
+
+
+ - CES1692.ROM.RangerIteration I 071901.doc 
+  
+ - Ranger0712.zip 

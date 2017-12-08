@@ -1,0 +1,14 @@
+You have received this email because you are listed as a data approver. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000082180&Page=Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000082180
+Request Create Date : 2/4/02 8:51:45 AM
+Requested For       : patrick.mulvany@enron.com
+Resource Name       : Sitara Houston Production Denver Edit Deal Compliance
+Resource Type       : Applications
+
+
+
+

@@ -1,0 +1,32 @@
+Wade -  Anywhere that we have Supplier Consolidated Billing Enron put up some form of credit to cover 45+ days of Utility charges.  So while I am unsure of the form of collateral, if Evan provides a list of where we are doing Supplier Consolidated Billing, we should be able to construct a Collateral Obligation worksheet.  We also have collateral in each ISO (NE-ISO, NYISO, PJM, CAISO).  
+
+It will take some time to de-DASR to Dual Billing and until our accounts switch, the Utilities will hold the Collateral.  
+
+Jim
+
+
+ -----Original Message-----
+From: 	Leff, Dan  
+Sent:	Friday, November 30, 2001 6:12 AM
+To:	Stubblefield, Wade; Ruffer, Mary lynne; Morrow, Cynthia; Nelson, Kimberley; Black, Don; Herndon, Rogers; Belden, Tim; Huddleson, Diann; Hughes, Evan; Herod, Brenda F.; O'Neil, Murray P.; Kingerski, Harry; Steffes, James D.; Harris, Molly; Bradford, William S.
+Cc:	Sharp, Vicki; Smith, Mike D.
+Subject:	RE: deposits
+
+My reading of a memo that SCE sent is that we have a deposit requirement of ~$23MM and that it needs to increase.  It wasn't clear whether that deposit was satisfied with cash, bond or LC. In all areas where we are billing our clients for power and T&D, we may have the opportunity to go to dual billing and receive deposits back, as well as to stop funding the PG&E escrow account.  I would imagine that the tariff provides for our deposits only to be netted against a deficiency in our T&D payments, where we are probably 100% current.
+
+We need to aggregate where we think we have this opportunity and take action today.
+
+Thanks - Dan
+
+ -----Original Message-----
+From: 	Stubblefield, Wade  
+Sent:	Thursday, November 29, 2001 9:06 PM
+To:	Ruffer, Mary lynne; Morrow, Cynthia; Nelson, Kimberley; Black, Don; Herndon, Rogers; Belden, Tim; Huddleson, Diann; Hughes, Evan; Herod, Brenda F.; O'Neil, Murray P.
+Cc:	Leff, Dan; Sharp, Vicki
+Subject:	deposits
+
+I am copying a lot of people on here to try and get as many sources thinking about this as possible.  Dan indicated to me that SCE appears to have a sizable deposit from us on hand (around $20MM) and is asking for more.  How can we trackdown/schedule out all of our deposits.  I would like to think we have them all in a deposit account on our balance sheet, but that is not likely (although Kim, Cindy and Mary Lynne should scour that).
+
+Does anybody have any ideas?????
+
+Wade

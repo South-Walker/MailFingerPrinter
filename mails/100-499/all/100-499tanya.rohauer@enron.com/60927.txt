@@ -1,0 +1,12 @@
+there are 3 (AEP,HETCO, and Phibro).  The first number is the amount originally called for, and the second is what the call should be today based on last night's marks.  I have also attached a spreadsheet with the same data.
+
+All numbers in millions:
+
+AEP 		19.25	22.5
+Phibro		16	16
+HETCO		17.25	9.5
+
+Thanks,
+Tanya
+
+ 

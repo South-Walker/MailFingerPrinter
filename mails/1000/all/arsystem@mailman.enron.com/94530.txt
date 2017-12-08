@@ -1,0 +1,14 @@
+You have received this email because the requester specified you as their Manager. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000069038&Page=Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000069038
+Request Create Date : 10/17/01 5:54:24 PM
+Requested For       : chris.abel@enron.com
+Resource Name       : Enpower North America West Production Adhoc_Print - Ad Hoc Hedge Management Printing
+Resource Type       : Applications
+
+
+
+

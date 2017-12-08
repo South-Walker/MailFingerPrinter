@@ -1,0 +1,14 @@
+You have received this email because the requester specified you as their Manager. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000037814&Page=Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000037814
+Request Create Date : 5/30/01 3:09:07 PM
+Requested For       : alex.huang@enron.com
+Resource Name       : Unlisted Application/Software
+Resource Type       : Applications
+
+
+
+

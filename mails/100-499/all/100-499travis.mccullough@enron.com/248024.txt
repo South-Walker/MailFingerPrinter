@@ -1,0 +1,16 @@
+Attached is a revised version of the ETA omitting the distinction between 
+transactions on Match and transactions on Trade.   If Enron is the only party 
+permitted to post product on Match, there is no need for the special rules 
+that we drafted for what was previously a "many-to-many" matching site.  
+However, we will need to develop a different set of GTCs for transactions 
+that Enron closes on Match, since the products transacted on Match are not 
+likely to be the type that lend themselves to Enron's standard GTCs.
+
+      
+
+Travis McCullough
+Enron North America Corp.
+1400 Smith Street EB 3817
+Houston Texas 77002
+Phone:  (713) 853-1575
+Fax: (713) 646-3490      

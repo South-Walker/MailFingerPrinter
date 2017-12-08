@@ -1,0 +1,14 @@
+fyi
+
+ -----Original Message-----
+From: 	Hawthorn, Andrew  
+Sent:	Friday, May 04, 2001 12:46 PM
+To:	Stokley, Chris; O'Neil, Murray P.
+Cc:	Dietrich, Dan; Steiner, David; Hopper, Kevin; Rimmerman, Russ
+Subject:	Timeout Terminal Server Change
+
+Chris:
+
+Per our conversation last week, I have changed the trading terminal server on which the timeout settings have been lifted.  At present, the timeout settings are lifted on NAHOU-TRDTS1.  We will cycle NAHOU-TRDTS5 into the maintenance schedule this weekend.  Please let me know if you have any questions.
+
+Andrew

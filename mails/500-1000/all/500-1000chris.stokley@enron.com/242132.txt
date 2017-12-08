@@ -1,0 +1,36 @@
+
+
+ -----Original Message-----
+From: 	Richter, Jeff  
+Sent:	Tuesday, July 17, 2001 3:56 PM
+To:	Stokley, Chris
+Subject:	FW: (CONFIDENTIAL) Logon ID for Energy Sense
+
+
+
+ -----Original Message-----
+From: 	Huddleson, Diann  
+Sent:	Friday, July 13, 2001 11:47 AM
+To:	Richter, Jeff
+Cc:	Hughes, Evan
+Subject:	(CONFIDENTIAL) Logon ID for Energy Sense
+
+Jeff:  I just reviewed data on the Cal Poly SLO campus which is up to date through yesterday.  The logon and password I am giving you is the campus' and should be kept confidential. 
+
+
+Url for web   <http://ci.ees.enron.com>
+Logon = John Doe
+Password = uccsuweb01
+
+Enter the Site
+
+Click on  "Cal Poly SLO"
+Click on "your energy account" (on left)
+Click on  New-Energy Sense 3.0 (under Demand Profiling)
+
+At Logon enter edward
+password = slojo
+company = uc/csu
+
+
+Let me know if you need help.

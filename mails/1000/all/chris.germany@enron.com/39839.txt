@@ -1,0 +1,48 @@
+Same as below with the following exceptions
+
+Pipeline CGAS
+Contract 64031
+Firmness IT
+Service Type Park & Loan
+Rate  PAL
+Term Type Term
+Eff Date  1/1/2000 - 1/31/2000  Evergreen
+
+Pipeline CGAS
+Contract 64041
+Firmness IT
+Service Type Park & Loan
+Rate  PAL
+Term Type Term
+Eff Date  1/1/2000 - 1/31/2000  Evergreen
+
+
+
+---------------------- Forwarded by Chris Germany/HOU/ECT on 01/19/2000 08:06 
+AM ---------------------------
+
+
+Chris Germany
+01/18/2000 07:08 PM
+To: Sylvia A Campos/HOU/ECT@ECT, Brenda H Fletcher/HOU/ECT@ECT
+cc:  
+Subject: CGAS Pals agreements
+
+Please set up the following CGAS contracts.  Please note; ENA is agent for CES
+
+Pipeline CGAS
+Contract 64031
+Firmness IT
+Service Type Storage Service
+Rate  ISS
+Term Type Term
+Eff Date  1/1/2000 - 1/31/2000  Evergreen
+
+Pipeline CGAS
+Contract 64041
+Firmness IT
+Service Type Storage Service
+Rate  ISS
+Term Type Term
+Eff Date  1/1/2000 - 1/31/2000  Evergreen
+

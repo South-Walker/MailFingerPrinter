@@ -1,0 +1,14 @@
+You have received this email because the requester specified you as their VP. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000033204&Page=Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000033204
+Request Create Date : 5/7/01 12:03:29 PM
+Requested For       : sean.boyle@enron.com
+Resource Name       : Market Data CQG
+Resource Type       : Applications
+
+
+
+

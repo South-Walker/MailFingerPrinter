@@ -1,0 +1,14 @@
+You have received this email because you are listed as a security approver. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000036859&Page=Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000036859
+Request Create Date : 5/23/01 5:14:58 PM
+Requested For       : larry.may@enron.com
+Resource Name       : ICE - External Intercontinental Exchange US Natural Gas
+Resource Type       : Applications
+
+
+
+

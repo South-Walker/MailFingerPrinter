@@ -1,0 +1,15 @@
+You have received this email because the requester specified you as their Manager's alternate. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000077306&Page=Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000077306
+Approver            : robert.superty@enron.com
+Request Create Date : 11/27/01 5:25:50 AM
+Requested For       : patti.sullivan@enron.com
+Resource Name       : Terminal Server - Remote Access Solutions <b>Houston General Purpose Solution</b>
+Resource Type       : Applications
+
+
+
+

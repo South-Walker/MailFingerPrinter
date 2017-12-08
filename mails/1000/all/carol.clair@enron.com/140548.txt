@@ -1,0 +1,8 @@
+Elizabeth:
+We are in the process of negotiating 2 ISDA masters with a counterparty, 1 
+with ENA and 1 with PGE.  In looking at our setoff language, it would appear 
+as if under certain circumstances the application of such language would 
+result in PGE subsidizing ENA's payment obligations.  How would you suggest 
+we handle this?  If we do nothing and such provision is unenforceable and we 
+rely on our severability language, are we okay?
+Carol

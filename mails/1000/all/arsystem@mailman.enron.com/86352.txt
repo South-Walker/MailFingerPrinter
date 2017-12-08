@@ -1,0 +1,14 @@
+You have received this email because you are listed as a data approver. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000081792&Page=Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000081792
+Request Create Date : 1/29/02 8:29:48 AM
+Requested For       : sudheer.kannantha@enron.com
+Resource Name       : Enpower North America West Production Deal_Clearing
+Resource Type       : Applications
+
+
+
+

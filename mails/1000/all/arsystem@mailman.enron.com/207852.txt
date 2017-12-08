@@ -1,0 +1,14 @@
+You have received this email because the requester specified you as their Manager. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000080962&Page=Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000080962
+Request Create Date : 1/15/02 8:32:44 AM
+Requested For       : sheila.nacey@enron.com
+Resource Name       : VPN (Corp = eConnect)
+Resource Type       : Applications
+
+
+
+

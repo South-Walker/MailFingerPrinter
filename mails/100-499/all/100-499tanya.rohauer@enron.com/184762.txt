@@ -1,0 +1,7 @@
+The Weather desk just completed a deal with CTG Resources, Inc, (the holding 
+company for Connecticut Natural Gas).  This will need to be confirmed under a 
+Deemed ISDA.  For this one trade, we do not need to include credit 
+provisions; however, we will need to send them a draft ISDA (as the desk 
+intends to continue transacting with this entity).  I will prepare a credit 
+worksheet for use in preparing the draft (probably beginning of next week 
+before I get to it).  Please call me if you have any questions.  Thanks!

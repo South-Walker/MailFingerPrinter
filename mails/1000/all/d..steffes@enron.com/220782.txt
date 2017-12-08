@@ -1,0 +1,23 @@
+Ginger --
+
+Can you please approve?
+
+Jim
+
+ -----Original Message-----
+From: 	enron_update@concureworkplace.com@ENRON  
+Sent:	Wednesday, November 28, 2001 10:31 AM
+To:	James Steffes
+Subject:	<<Concur Expense Document>> - Michael Roan
+
+The following expense report is ready for approval:
+
+Employee Name: Michael  . Roan Mr.
+Status last changed by:  Automated Administrator
+Expense Report Name: Michael Roan
+Report Total: $624.93
+Amount Due Employee: $624.93
+
+
+To approve this expense report, click on the following link for Concur Expense.
+http://expensexms.enron.com

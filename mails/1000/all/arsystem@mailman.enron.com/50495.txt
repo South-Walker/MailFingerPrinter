@@ -1,0 +1,17 @@
+You have received this email because the requester specified you as their 
+Manager. Please click 
+http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000024099&Page=
+Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000024099
+Request Create Date : 3/16/01 5:39:34 PM
+Requested For       : iris.mack@enron.com
+Resource Name       : Visual Studio Enterprise
+Resource Type       : Applications
+
+
+
+

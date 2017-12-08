@@ -1,0 +1,17 @@
+You have received this email because you are listed as a security approver. 
+Please click 
+http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000009315&Page=
+Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000009315
+Request Create Date : 12/6/00 8:47:26 AM
+Requested For       : maria.garza@enron.com
+Resource Name       : EOL US Other
+Resource Type       : Applications
+
+
+
+

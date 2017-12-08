@@ -1,0 +1,14 @@
+You have received this email because the requester specified you as their VP. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000069519&Page=Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000069519
+Request Create Date : 10/19/01 9:03:47 AM
+Requested For       : ginger.dernehl@enron.com
+Resource Name       : Global Messaging North America Additional Mailbox Space (25 Meg Increase)
+Resource Type       : Applications
+
+
+
+

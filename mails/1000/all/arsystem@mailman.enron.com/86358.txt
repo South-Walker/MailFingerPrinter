@@ -1,0 +1,14 @@
+You have received this email because you are listed as a data approver. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000081940&Page=Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000081940
+Request Create Date : 1/30/02 10:18:24 AM
+Requested For       : nick.hiemstra@enron.com
+Resource Name       : Enpower North America West Production Pwr_portfolio_user
+Resource Type       : Applications
+
+
+
+

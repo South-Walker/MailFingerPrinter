@@ -1,0 +1,27 @@
+Comments:
+
+1. We should not have a threshold for these transactions - only KCS
+2. Do we need to reference that the Master has been amended in the opening 
+paragraph
+3. Is there any way to reference the assignment to Brazos?  I just want to 
+make sure everyone understands that there are two outcomes for these deals on 
+Jun 15:  1) Termination if VPP not done or 2) assignment of swap to Brazos if 
+VPP is done.  There should never be a time where ENA has a trades with KCS 
+beyond Jun 15.
+
+Thanks,
+Tanya
+
+ -----Original Message-----
+From:  Anderson, Diane  
+Sent: Friday, May 25, 2001 4:08 PM
+To: Rohauer, Tanya; Bailey, Derek
+Subject: KCS - VC0917 & VC09
+
+Attached please see for your review the KCS confirms with the additional
+provision provided by Sara Shackelton:
+
+ << File: KCS-VC0917.1.doc >>  << File: KCS-VC0975.1.doc >> 
+
+-Diane
+

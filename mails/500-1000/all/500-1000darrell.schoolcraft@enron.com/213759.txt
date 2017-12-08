@@ -1,0 +1,23 @@
+
+
+ -----Original Message-----
+From: 	Hanagriff, Richard  
+Sent:	Tuesday, March 12, 2002 6:25 PM
+To:	Lohman, TK; Schoolcraft, Darrell
+Cc:	Watson, Kimberly
+Subject:	monthly accumulated imbalances
+
+TK
+
+I added a tab "monthly" which accumlates the monthly imbalances per operator.  The accumulated monthly total balance would be the monthly oba imbalance net.
+
+Would this be useful information until we develop the automated version.
+
+richard
+
+ 
+
+give me a call if you have questions
+
+
+

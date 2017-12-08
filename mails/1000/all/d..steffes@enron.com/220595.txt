@@ -1,0 +1,11 @@
+Thanks.
+
+ -----Original Message-----
+From: 	Linnell, Elizabeth  
+Sent:	Wednesday, October 31, 2001 3:33 PM
+To:	Shapiro, Richard; Steffes, James D.; Dernehl, Ginger
+Subject:	Project Tracking Conversion
+
+Because of bid week, we can't move the data from development to production until next week.  Apparently the networks people don't want to make any significant changes to the servers during the week before and after.
+
+Actually, this works out well for the three of us working on the data cleanup, as we're still wading through the current entries.

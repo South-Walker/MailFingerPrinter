@@ -1,0 +1,15 @@
+You have received this email because the requester specified you as their Manager's alternate. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000077034&Page=Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000077034
+Approver            : patti.sullivan@enron.com
+Request Create Date : 11/21/01 12:03:10 PM
+Requested For       : justin.fernandez@enron.com
+Resource Name       : VPN/IPASS
+Resource Type       : Applications
+
+
+
+

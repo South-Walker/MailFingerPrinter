@@ -1,0 +1,14 @@
+You have received this email because the requester specified you as their VP. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000082376&Page=Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000082376
+Request Create Date : 2/6/02 7:29:42 AM
+Requested For       : adam.bayer@enron.com
+Resource Name       : Risk Acceptance Forms Local Admin Rights - Temporary
+Resource Type       : Applications
+
+
+
+

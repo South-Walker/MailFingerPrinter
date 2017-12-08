@@ -1,0 +1,17 @@
+This request has been pending your approval for  2 days.  Please click 
+http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000014511&Page=
+Approval to review and act upon this request.
+
+
+
+
+
+Request ID          : 000000000014511
+Request Create Date : 1/19/01 10:21:25 AM
+Requested For       : amelia.cavazos@enron.com
+Resource Name       : EOL US Backoffice  Stack Manager
+Resource Type       : Applications
+
+
+
+

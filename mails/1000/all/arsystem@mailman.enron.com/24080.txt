@@ -1,0 +1,17 @@
+This request has been pending your approval for  2 days.  Please click 
+http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000008254&Page=
+Approval to review and act upon this request.
+
+
+
+
+
+Request ID          : 000000000008254
+Request Create Date : 11/27/00 10:45:13 AM
+Requested For       : avril.forster@enron.com
+Resource Name       : VPN
+Resource Type       : Applications
+
+
+
+

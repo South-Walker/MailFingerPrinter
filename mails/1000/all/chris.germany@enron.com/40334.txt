@@ -1,0 +1,20 @@
+Here are a couple of real bookout examples for October.
+
+These are deals Brian Perrone did.
+New Power purchased gas from ENA for deliveries to WGL.
+Deal #377264
+The price is NX! + .325 and the volume is 15014/month.
+
+Since New Power is taking all deliveries on CGAS, I buy the TRCO gas back at 
+
+IF CGAS  $5.5500
+FOM Prem  $.0075
+CGAS Transport $.1468
+ENA Oct Demand $.06
+
+Total   $5.7643
+
+The actual volumes for WGL are included in the large sale to New Power on 
+CGAS.  The pricing looks strange because ENA is paying New Power a $.06 
+demand charge for transport.  Since this is a citygate NYMX deal, I treat it 
+the same as if New Power 

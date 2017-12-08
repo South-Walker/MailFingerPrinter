@@ -1,0 +1,14 @@
+You have received this email because the requester specified you as their VP. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000068821&Page=Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000068821
+Request Create Date : 10/17/01 11:45:44 AM
+Requested For       : jeff.andrews@enron.com
+Resource Name       : Risk Acceptance Forms Local Admin Rights - Permanent
+Resource Type       : Applications
+
+
+
+

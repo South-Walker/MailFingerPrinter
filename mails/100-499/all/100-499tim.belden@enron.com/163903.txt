@@ -1,0 +1,5 @@
+see the attached spreadsheet.  respond with "enable macros" at the first 
+dialogue box and "no" to the second dialogue box.  go to the tab "peak by 
+region" and look at cell k15.  i have the print range set up already to print 
+peak, off-peak, and flat positions.
+

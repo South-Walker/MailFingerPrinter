@@ -1,0 +1,16 @@
+This request has been pending approval for  2 days and you are the alternate.  Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000071889&Page=Approval to review and act upon this request.
+
+
+
+
+
+Request ID          : 000000000071889
+Approver            : barbara.n.gray@enron.com
+Request Create Date : 10/29/01 4:48:16 PM
+Requested For       : theresa.zucha@enron.com
+Resource Name       : LiveLink ENA
+Resource Type       : Applications
+
+
+
+

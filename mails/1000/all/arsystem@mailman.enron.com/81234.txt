@@ -1,0 +1,15 @@
+This request has been pending your approval for  5 days.  Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000074863&Page=Approval to review and act upon this request.
+
+
+
+
+
+Request ID          : 000000000074863
+Request Create Date : 11/11/01 8:33:06 PM
+Requested For       : punit.rawal@enron.com
+Resource Name       : VPN - Remote Access Policy Tier 3 - Special/Other Access
+Resource Type       : Applications
+
+
+
+

@@ -1,0 +1,17 @@
+This request has been pending your approval for  5 days.  Please click 
+http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000035276&Page=
+Approval to review and act upon this request.
+
+
+
+
+
+Request ID          : 000000000035276
+Request Create Date : 5/16/01 2:37:38 PM
+Requested For       : lance.schuler-legal@enron.com
+Resource Name       : Cynet Desktop Faxing
+Resource Type       : Applications
+
+
+
+

@@ -1,0 +1,15 @@
+This request has been pending your approval for  2 days.  Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000036178&Page=Approval to review and act upon this request.
+
+
+
+
+
+Request ID          : 000000000036178
+Request Create Date : 5/21/01 3:32:45 PM
+Requested For       : savita.puthigai@enron.com
+Resource Name       : VPN/IPASS
+Resource Type       : Applications
+
+
+
+

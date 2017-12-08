@@ -1,0 +1,15 @@
+This request has been pending your approval for  14 days.  Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000080512&Page=Approval to review and act upon this request.
+
+
+
+
+
+Request ID          : 000000000080512
+Request Create Date : 1/7/02 5:01:54 PM
+Requested For       : stephen.benchluch@enron.com
+Resource Name       : Market Data Kobra Power
+Resource Type       : Applications
+
+
+
+

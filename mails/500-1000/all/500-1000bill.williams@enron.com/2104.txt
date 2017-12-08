@@ -1,0 +1,19 @@
+
+Bert,
+When buying from any desk on the floor, you should have a sale from that desk (say ST-CALI) to either WHourly or WBOM, then do enpower as normal. The interdesk sale will not pull up in scheduling and you will have to route the sale in Enpower to the physical buy by the other desk (another words...ST-CALI buys from imbalance, sells to WHourly/WBOM, then WHourly/WBOM sells to EPMICALPOOL, then WHourly/WBOM sells to EPE.
+Please let me know if you have questions.
+
+Bill
+ -----Original Message-----
+From: 	Meyers, Bert  
+Sent:	Friday, August 10, 2001 11:28 PM
+To:	Williams III, Bill
+Subject:	
+
+Bill:
+
+We had a variance in the SAR for the West BOM Book on Friday night.  It was due to a 9 mw purchase from short term cali that was used to fill the lending we have with El Paso Electric.  We in a purchase from the imbalance under the WBOM Book (deal #727440), and built an annuity (deal #72741) where short term cali sold us the 9 MW @ $43.00.  If this is not the correct to remedy the variance please advise me of what to do next time.
+
+Regards,
+
+Bert Meyers

@@ -1,0 +1,14 @@
+You have received this email because you are listed as a data approver. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000038420&Page=Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000038420
+Request Create Date : 6/4/01 7:52:05 AM
+Requested For       : gary.bryan@enron.com
+Resource Name       : EOL US NatGas NatGas Book to Book (Trader Access - Website)
+Resource Type       : Applications
+
+
+
+

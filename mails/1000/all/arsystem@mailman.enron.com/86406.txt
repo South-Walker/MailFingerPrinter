@@ -1,0 +1,15 @@
+This request has been pending your approval for  3 days.  Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000081220&Page=Approval to review and act upon this request.
+
+
+
+
+
+Request ID          : 000000000081220
+Request Create Date : 1/17/02 3:03:38 PM
+Requested For       : winston.jia@enron.com
+Resource Name       : Enpower North America West Production Table_Lookup
+Resource Type       : Applications
+
+
+
+

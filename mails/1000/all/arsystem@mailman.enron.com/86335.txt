@@ -1,0 +1,14 @@
+You have received this email because you are listed as a data approver. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000082062&Page=Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000082062
+Request Create Date : 1/31/02 12:07:37 PM
+Requested For       : john.oh@enron.com
+Resource Name       : Enpower Caps
+Resource Type       : Applications
+
+
+
+

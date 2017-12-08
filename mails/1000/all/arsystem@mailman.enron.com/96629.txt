@@ -1,0 +1,14 @@
+You have received this email because the requester specified you as their VP. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000037664&Page=Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000037664
+Request Create Date : 5/30/01 9:36:55 AM
+Requested For       : david.forster@enron.com
+Resource Name       : Global Messaging North America Additional Mailbox Space (25 Meg Increase)
+Resource Type       : Applications
+
+
+
+

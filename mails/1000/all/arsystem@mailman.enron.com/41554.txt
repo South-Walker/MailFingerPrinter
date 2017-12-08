@@ -1,0 +1,14 @@
+You have received this email because you are listed as a data approver. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000082433&Page=Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000082433
+Request Create Date : 2/6/02 2:16:13 PM
+Requested For       : jeanne.wukasch@enron.com
+Resource Name       : Sitara Houston Production Central Edit Logistics
+Resource Type       : Applications
+
+
+
+

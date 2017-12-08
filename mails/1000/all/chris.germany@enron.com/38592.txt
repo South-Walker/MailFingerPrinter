@@ -1,0 +1,39 @@
+Have we scheduled any gas on the following contracts?
+
+
+Deal  contract
+456640  894232
+456762  894233
+459025  894199 
+459064  894244  
+459070  894245
+459216  894199
+
+
+
+---------------------- Forwarded by Chris Germany/HOU/ECT on 11/07/2000 03:43 
+PM ---------------------------
+
+
+Alfonso Trabulsi
+11/07/2000 03:14 PM
+To: Elizabeth L Hernandez/HOU/ECT@ECT, Chris Germany/HOU/ECT@ECT
+cc:  
+Subject: Wrong Counter Party Names
+
+
+	
+
+Deal numbers 
+All these deal have Texas Eastern Gas Pipeline as the counter party ... They 
+should be Texas Eastern Gas Transmission Company.
+456640
+456762
+459025
+459064
+459070
+459216
+
+Thanks
+AT
+

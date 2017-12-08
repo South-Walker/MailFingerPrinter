@@ -1,0 +1,14 @@
+You have received this email because you are listed as a data approver. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000071752&Page=Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000071752
+Request Create Date : 10/29/01 12:43:09 PM
+Requested For       : lisa.guilliams@enron.com
+Resource Name       : \\\\enehou\\houston\\common\\ERMS\\1intra - [Read/Write]
+Resource Type       : Directory
+
+
+
+

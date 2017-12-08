@@ -1,0 +1,15 @@
+You have received this email because the requester specified you as their Manager's alternate. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000078164&Page=Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000078164
+Approver            : nony.flores@enron.com
+Request Create Date : 12/5/01 9:39:05 AM
+Requested For       : vanessa.griffin@enron.com
+Resource Name       : Visio Professional
+Resource Type       : Applications
+
+
+
+

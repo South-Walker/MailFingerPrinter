@@ -1,0 +1,17 @@
+You have received this email because you are listed as a data approver. 
+Please click 
+http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000034741&Page=
+Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000034741
+Request Create Date : 5/14/01 4:52:34 PM
+Requested For       : jason.r.williams@enron.com
+Resource Name       : Sitara Houston Production Central View Only Settlements
+Resource Type       : Applications
+
+
+
+

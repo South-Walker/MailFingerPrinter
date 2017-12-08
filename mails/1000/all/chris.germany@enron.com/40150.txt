@@ -1,0 +1,12 @@
+I created deal 159513 to capture the IT gas we are flowing on IROQ for Jan 
+and Feb.  Here is how it works.
+
+Rate Comment
+ 1.  Schedule gas on our IT contract from Waddington to Wright
+ 2.  Flow gas through our parking contract at Wright
+ 3.  Schedule gas on our IT contract from Waddington to Pleasant Valley
+ 4.  Flow gas through parking at Pleasant Valley
+ 5.  Schedule gas on our IT contract from Pleasant Valley to S Commack.
+
+
+The total cost is about $1.00.  I will follow up with the exact cost later.

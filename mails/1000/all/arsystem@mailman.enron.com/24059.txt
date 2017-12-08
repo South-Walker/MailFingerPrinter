@@ -1,0 +1,17 @@
+You have received this email because you are listed as a security approver. 
+Please click 
+http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000009641&Page=
+Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000009641
+Request Create Date : 12/7/00 5:46:29 PM
+Requested For       : brian.oxley@enron.com
+Resource Name       : EOL US Bandwidth Backoffice/Support
+Resource Type       : Applications
+
+
+
+

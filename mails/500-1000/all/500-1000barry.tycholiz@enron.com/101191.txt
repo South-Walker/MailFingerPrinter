@@ -1,0 +1,11 @@
+Basically the intent of this condition is as follows:  On the replacement 
+gas, we will purchase or sell this gas based on a GDDI but in the event that 
+this index is unavailabe at the time of the transaction or the index has 
+separated from the fixed price for that day then the counterparties have 
+agreed that we can buy/sell on a fixed price.  In either scenerio, when ECC 
+is acting as the agent, we shall be held harmless from a price exposure..
+
+
+If this explanation is not clear enough... give me a call. 
+
+Barry 

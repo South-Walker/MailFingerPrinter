@@ -1,0 +1,16 @@
+This request has been pending approval for  2 days and you are the alternate.  Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000036329&Page=Approval to review and act upon this request.
+
+
+
+
+
+Request ID          : 000000000036329
+Approver            : dave.samuels@enron.com
+Request Create Date : 5/22/01 9:41:43 AM
+Requested For       : dan.diamond@enron.com
+Resource Name       : Global Messaging North America Additional Mailbox Space (25 Meg Increase)
+Resource Type       : Applications
+
+
+
+

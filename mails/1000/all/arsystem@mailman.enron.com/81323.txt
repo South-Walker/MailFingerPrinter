@@ -1,0 +1,15 @@
+This request has been pending your approval for  6 days.  Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000076650&Page=Approval to review and act upon this request.
+
+
+
+
+
+Request ID          : 000000000076650
+Request Create Date : 11/19/01 2:40:19 PM
+Requested For       : punit.rawal@enron.com
+Resource Name       : Market Data Kobra Basic Energy
+Resource Type       : Applications
+
+
+
+

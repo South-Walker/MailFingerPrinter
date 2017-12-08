@@ -1,0 +1,4 @@
+We released the following capacity for May 2002 - Sep 2002 on TW and I updated Sitara with the capacity release information
+
+Contract	MDQ	Release Rate	Replacement Shipper	Sitara #'s
+24924		25,000	$.104 per day	Burlington		1190537 / 1205724

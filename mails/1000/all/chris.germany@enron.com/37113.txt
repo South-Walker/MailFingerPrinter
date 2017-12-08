@@ -1,0 +1,30 @@
+I would prefer that you fix it.  Just come over when you are ready.
+
+thanks
+
+ -----Original Message-----
+From: 	Price, Wade R.  
+Sent:	Monday, June 24, 2002 8:30 AM
+To:	Germany, Chris; Barbe, Robin; Concannon, Ruth
+Subject:	RE: CNR Questions
+
+Looks like you are right about CNR Mar-02. You can fix them on the tab labeled CNRVol (or call me and I'll come do it real quick).
+
+Processing charges are billed by CGAS and CNR (and Gatherco too).  They would be processed and paid by Volume Management.  Some of the extra $0.03 charges are billed by Mark West.
+
+I'm working on the volume split files for Dec-01 Dominion. We can match it with the status/effective date file Robin is fixing.
+
+Call you soon.
+
+WRP
+
+ -----Original Message-----
+From: 	Germany, Chris  
+Sent:	Friday, June 21, 2002 4:54 PM
+To:	Price, Wade R.
+Subject:	CNR Questions
+
+Quetion about March 2002, it looks like the volumes used in the Payment file are the gross volumes from the CNR volume file, not the net volumes.  Would you check on that please sir?
+
+Thanks.
+

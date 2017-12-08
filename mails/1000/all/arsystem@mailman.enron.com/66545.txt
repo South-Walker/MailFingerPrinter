@@ -1,0 +1,14 @@
+You have received this email because you are listed as a data approver. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000082079&Page=Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000082079
+Request Create Date : 1/31/02 1:35:26 PM
+Requested For       : patrick.ryder@enron.com
+Resource Name       : Sitara Houston Production West Edit Risk Analytics
+Resource Type       : Applications
+
+
+
+

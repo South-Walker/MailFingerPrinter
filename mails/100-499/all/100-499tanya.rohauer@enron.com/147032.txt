@@ -1,0 +1,57 @@
+Any thoughts on this one?  If you recall Texaco Natural Gas (TNG) is 
+authorized to trade on behalf of Texaco Inc. (INC) per the ISDA.    However, 
+we put TNG online not INC.  Joe does not want to have to move deals every 
+day.  How should these guys be set up online so that it automatically goes to 
+the right place? Brent, this may be similar to the XL/Element Re issue.  
+Pleae advise.
+
+Thanks,
+Tanya
+
+ -----Original Message-----
+From:  Vanek, Darren  
+Sent: Tuesday, May 01, 2001 10:44 AM
+To: Rohauer, Tanya
+Subject: FW: Texaco Inc
+
+Rho,
+Can we actually shut Texaco Natural Gas inc down on EOL and force them to 
+trade under Texaco Inc? It seems like there should be a way to have the deal 
+automatically moved. Please adise.
+
+-d
+
+ -----Original Message-----
+From:  Hunter, Larry Joe  
+Sent: Tuesday, May 01, 2001 10:34 AM
+To: Vanek, Darren
+Subject: Re: Texaco Inc
+
+Only issue is that Texaco will be trading under the name Texaco Natural Gas, 
+Inc. on EOL daily (15-20 deals/day).  We need to shut this trading off 
+(Change it to Texaco Inc.) before we move any deals.  Otherwise we're wasting 
+our time.  
+
+Joe
+
+
+
+
+From: Darren Vanek/ENRON@enronXgate on 05/01/2001 09:28 AM
+To: Larry Joe Hunter/HOU/ECT@ECT
+cc:  
+Subject: Texaco Inc
+
+Joe,
+I spoke to a few people here in Credit and we all agree that all existing 
+deals with Texaco Natural Gas Inc need to be moved to Texaco Inc, under the 
+ISDA. Logistically, I am not sure if there is an easier way to have the deals 
+moved other than doing it physically at the end of the day. Please let me 
+know if there are any other issues that need to be resolved in order to have 
+active deals moved.
+
+
+Darren Vanek
+ 
+
+

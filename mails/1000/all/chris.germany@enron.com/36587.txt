@@ -1,0 +1,18 @@
+Please set up the following contract in Sitara
+
+Pipeline CGAS
+Seller  CGAS
+Buyer  Commonwealth Atlantic Limited Partnership
+Firmness Firm
+Type  Off-Peak Firm Transport
+Rate Sched OPT
+Term  1/1/2000 - 7/7/2000
+CALP pays all the bills from the pipeline.
+
+Comments:  Commonwealth Atlantic Limited Partnership is not setup as a 
+counterparty in global.  However, we used CES CALP EXCHANGE as the 
+counterparty for our exchange deal tickets.  CALP was a CES deal and they 
+have not signed the agency agreement yet.  Let me know if you need any 
+additional info from me.
+
+I will be out Wednesday buy you can call Scott Goodell at my desk.

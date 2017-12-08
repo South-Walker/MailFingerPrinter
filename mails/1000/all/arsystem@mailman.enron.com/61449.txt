@@ -1,0 +1,14 @@
+You have received this email because the requester specified you as their VP. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000038953&Page=Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000038953
+Request Create Date : 6/5/01 1:33:45 PM
+Requested For       : don.miller@enron.com
+Resource Name       : Global Messaging North America Additional Mailbox Space (25 Meg Increase)
+Resource Type       : Applications
+
+
+
+

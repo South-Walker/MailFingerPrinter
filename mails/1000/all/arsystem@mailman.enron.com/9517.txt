@@ -1,0 +1,15 @@
+You have received this email because you are listed as an alternate data approver. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000080466&Page=Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000080466
+Approver            : phillip.m.love@enron.com
+Request Create Date : 1/7/02 12:33:47 PM
+Requested For       : marde.l.driscoll-ernest@enron.com
+Resource Name       : Sitara Houston Production East Edit Logistics
+Resource Type       : Applications
+
+
+
+

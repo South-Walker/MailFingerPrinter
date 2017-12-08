@@ -1,0 +1,14 @@
+You have received this email because the requester specified you as their VP. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000031126&Page=Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000031126
+Request Create Date : 4/25/01 9:55:33 AM
+Requested For       : bob.m.hall@enron.com
+Resource Name       : Global Messaging North America Additional Mailbox Space (25 Meg Increase)
+Resource Type       : Applications
+
+
+
+

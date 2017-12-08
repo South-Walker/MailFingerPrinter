@@ -1,0 +1,15 @@
+Thanx.
+
+ -----Original Message-----
+From: 	Cooke, Ian  
+Sent:	Tuesday, August 28, 2001 10:35 AM
+To:	Dorland, Chris
+Subject:	Morning Package
+
+Chris,
+
+I have included a "TCPL Map"  that includes the Alliance pipeline.  Alliance data lags one day behind today's date so the flows on the Alliance pipeline for today appear as 0.   
+
+ << File: opspackage.xls >> 
+Regards,
+Ian

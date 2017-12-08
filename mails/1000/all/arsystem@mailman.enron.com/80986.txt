@@ -1,0 +1,15 @@
+This request has been pending your approval for  29 days.  Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000059240&Page=Approval to review and act upon this request.
+
+
+
+
+
+Request ID          : 000000000059240
+Request Create Date : 9/10/01 2:19:58 PM
+Requested For       : ryan.williams@enron.com
+Resource Name       : Market Data Kobra Power
+Resource Type       : Applications
+
+
+
+

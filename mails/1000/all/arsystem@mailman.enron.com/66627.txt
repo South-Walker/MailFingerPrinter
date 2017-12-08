@@ -1,0 +1,14 @@
+You have received this email because you are listed as a data approver. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000080902&Page=Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000080902
+Request Create Date : 1/14/02 11:44:34 AM
+Requested For       : hal.mckinney@enron.com
+Resource Name       : \\\\enehou\\houston\\common\\ERMS\\erms_adm\\FIRMTRAD - [Read/Write]
+Resource Type       : Directory
+
+
+
+

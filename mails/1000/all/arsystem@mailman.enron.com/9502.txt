@@ -1,0 +1,14 @@
+You have received this email because you are listed as a data approver. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000080522&Page=Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000080522
+Request Create Date : 1/8/02 7:58:56 AM
+Requested For       : phillip.m.love@enron.com
+Resource Name       : Sitara Houston Production Denver Edit Risk Analytics
+Resource Type       : Applications
+
+
+
+

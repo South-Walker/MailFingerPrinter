@@ -1,0 +1,31 @@
+In speaking to the PUC today, they are under the impression that we are currently physically serving Compaq and JC Penney.  Is this right? If so, don't we want to deDASR them?
+
+Jim
+
+ -----Original Message-----
+From: 	Hughes, Evan  
+Sent:	Tuesday, December 04, 2001 3:50 PM
+To:	Wagner, Joseph
+Cc:	Herndon, Rogers; Huddleson, Diann; Gresch, Robert; Nicolay, Christi L.; Steffes, James D.; Delainey, David W.
+Subject:	RE: ERCOT SWITCHES
+
+Joe,
+
+Bob G. is implementing what I tell him to DeDASR.  If you need the "green light" to DeDASR...Dave Delainey gives me the final OK and I'll let Bob G. know what next steps need to happen.
+
+FYI -- so far -- I have directed him to DeDASR ERCOT Lockheed and Package Ice only.
+
+Evan
+
+
+ -----Original Message-----
+From: 	Wagner, Joseph  
+Sent:	Tuesday, December 04, 2001 3:41 PM
+To:	Hughes, Evan; Herndon, Rogers; Huddleson, Diann; Gresch, Robert; Nicolay, Christi L.; Steffes, James D.
+Subject:	ERCOT SWITCHES
+
+I talked with Bob Gresch who is doing all over our switches with ERCOT for Lockheed and Packaged Ice.  We need to send him the proper information to DeDASR Owens Corning as well.  We have already given ERCOT the authority to cancel the pending request for Owens, however, we need to send the DeDASR over as well.  
+
+Additionally, ERCOT is going to hold a conference call with EES, TXU and ERCOT to walk through the steps for the drop to POLR (TDSP).  I am going to send Bob Gresch's contact info to them for the call.  If anyone else would like to be included on this call, please let me know.  Thanks.
+
+-Joe

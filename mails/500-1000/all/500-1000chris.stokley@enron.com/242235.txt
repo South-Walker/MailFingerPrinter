@@ -1,0 +1,11 @@
+
+
+ -----Original Message-----
+From: 	Meterscout [mailto:MeterScout@ect.enron.com] <mailto:[mailto:MeterScout@ect.enron.com]> 
+Sent:	Sunday, April 29, 2001 3:00 AM
+To:	eespower
+Cc:	eespower; d.brett.hunsucker; mstokle; pete.davis
+Subject:	EES meter data upload confirmation
+
+1 files parsed for EES
+ - confirmation.csv 

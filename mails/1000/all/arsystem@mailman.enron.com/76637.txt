@@ -1,0 +1,14 @@
+You have received this email because the requester specified you as their Manager. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000037803&Page=Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000037803
+Request Create Date : 5/30/01 2:40:27 PM
+Requested For       : brad.mckay@enron.com
+Resource Name       : VPN/IPASS
+Resource Type       : Applications
+
+
+
+

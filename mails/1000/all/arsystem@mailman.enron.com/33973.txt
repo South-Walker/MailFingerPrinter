@@ -1,0 +1,17 @@
+This request has been pending your approval for  16 days.  Please click 
+http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000008162&Page=
+Approval to review and act upon this request.
+
+
+
+
+
+Request ID          : 000000000008162
+Request Create Date : 11/22/00 2:04:02 PM
+Requested For       : stacey.neuweiler@enron.com
+Resource Name       : Unlisted Application/Software
+Resource Type       : Applications
+
+
+
+

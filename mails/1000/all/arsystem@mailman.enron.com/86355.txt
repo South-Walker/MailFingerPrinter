@@ -1,0 +1,14 @@
+You have received this email because you are listed as a data approver. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000081999&Page=Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000081999
+Request Create Date : 1/30/02 4:04:45 PM
+Requested For       : joseph.piotrowski@enron.com
+Resource Name       : Enpower North America West Production Risk_Mgmt - Risk Information Access
+Resource Type       : Applications
+
+
+
+

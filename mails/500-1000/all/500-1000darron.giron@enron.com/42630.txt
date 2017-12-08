@@ -1,0 +1,63 @@
+Dawn,
+
+NGI-SOCAL
+NGI-PGE/CG
+
+Didn't you used to work on the West desk?
+
+DG
+
+
+
+
+Dawn C Kenne
+03/06/2001 10:21 AM
+To: Anne Bike/Corp/Enron@Enron
+cc: Darron C Giron/HOU/ECT@ECT, Tara Sweitzer/HOU/ECT@ECT, Melba 
+Lozano/HOU/ECT@ECT 
+Subject: NGI
+
+Can you please provide the index that should be mapped to the EOL indexes 
+requested by Mike Grigsby?
+
+Thanks,
+Dawn
+---------------------- Forwarded by Dawn C Kenne/HOU/ECT on 03/06/2001 10:19 
+AM ---------------------------
+From: Melba Lozano on 03/06/2001 10:16 AM
+To: Dawn C Kenne/HOU/ECT@ECT, Tara Sweitzer/HOU/ECT@ECT
+cc:  
+
+Subject: NGI
+
+Please map the attached Indices in TEST.
+
+Thanks,
+
+Melba
+
+
+Index:	Socal, Southern Border NGI 
+Abb:	NGI SoBorder, Socal
+	
+Desc:	The Index for a month shall be the Bidweek Average Price in the row 
+entitled "Southern Border, Socal" located in the "California" section of the 
+table entitled "Spot Gas Prices", published in the first issue in such month 
+of Natural Gas Intelligence Weekly Gas Price Index.
+EOL:	TEST
+REQ'D BY:	Mike Grigsby
+
+Index:	PG&E, Southern Border NGI 
+Abb:	NGI SoBorder, Socal
+	
+Desc:	The Index for a month shall be the Bidweek Average Price in the row 
+entitled "Southern Border, PG&E" located in the "California" section of the 
+table entitled "Spot Gas Prices", published in the first issue in such month 
+of Natural Gas Intelligence Weekly Gas Price Index.
+EOL:	TEST
+REQ'D BY:	Mike Grigsby
+
+
+
+
+

@@ -1,0 +1,17 @@
+This resource request has been rejected. You can view the details of the  request by clicking http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000081716&Page=MyReq.
+
+
+
+
+Request ID          : 000000000081716
+Approver Type       : Access
+Signature           : shari.daugherty@enron.com
+Comments            : Please request a specific you need access to on the m:\\drive.
+Request Create Date : 1/28/02 10:08:38 AM
+Requested For       : kam.keiser@enron.com
+Resource Name       : \\\\nahoutrd\\houston\\pwr\\common - [Read/Write]
+Resource Type       : Directory
+
+
+
+

@@ -1,0 +1,15 @@
+You have received this email because the requester specified you as their Manager's alternate. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000077031&Page=Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000077031
+Approver            : patti.sullivan@enron.com
+Request Create Date : 11/21/01 11:59:52 AM
+Requested For       : justin.fernandez@enron.com
+Resource Name       : Terminal Server - Remote Access Solutions <b>Houston General Purpose Solution</b>
+Resource Type       : Applications
+
+
+
+

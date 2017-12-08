@@ -1,0 +1,17 @@
+This request has been pending your approval for  2 days.  Please click 
+http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000010092&Page=
+Approval to review and act upon this request.
+
+
+
+
+
+Request ID          : 000000000010092
+Request Create Date : 12/12/00 3:00:54 PM
+Requested For       : diane.goode@enron.com
+Resource Name       : Lexis Nexis Research - Legal
+Resource Type       : Applications
+
+
+
+

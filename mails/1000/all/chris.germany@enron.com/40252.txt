@@ -1,0 +1,5 @@
+Deal Type Prev Vol New Vol Prev Price New Price Comment
+508891 sell 30006  14318  5.486  5.6157  Chris error on New power worksheet.
+508899 buy 30006  14318  no change no change Chris error
+
+

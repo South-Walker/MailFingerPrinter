@@ -1,0 +1,19 @@
+This request has been pending approval for  2 days and you are the 
+alternate.  Please click 
+http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000010092&Page=
+Approval to review and act upon this request.
+
+
+
+
+
+Request ID          : 000000000010092
+Approver            : michelle.cash@enron.com
+Request Create Date : 12/12/00 3:00:54 PM
+Requested For       : diane.goode@enron.com
+Resource Name       : Unlisted Application/Software
+Resource Type       : Applications
+
+
+
+

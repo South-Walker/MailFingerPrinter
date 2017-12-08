@@ -1,0 +1,16 @@
+This request has been pending approval for  3 days and you are the alternate.  Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000081004&Page=Approval to review and act upon this request.
+
+
+
+
+
+Request ID          : 000000000081004
+Approver            : sandeep.kohli@enron.com
+Request Create Date : 1/15/02 12:45:53 PM
+Requested For       : randal.frisbie@enron.com
+Resource Name       : \\\\enehou\\houston\\common\\Research - [Read]
+Resource Type       : Directory
+
+
+
+

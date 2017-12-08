@@ -1,0 +1,14 @@
+You have received this email because the requester specified you as their Manager. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000079989&Page=Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000079989
+Request Create Date : 12/26/01 9:53:43 AM
+Requested For       : brian.redmond@enron.com
+Resource Name       : eConnect - VPN  Tier 2 - Full Access
+Resource Type       : Applications
+
+
+
+

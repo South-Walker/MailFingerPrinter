@@ -1,0 +1,15 @@
+You have received this email because you are listed as an alternate data approver. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000080903&Page=Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000080903
+Approver            : phillip.m.love@enron.com
+Request Create Date : 1/14/02 11:45:41 AM
+Requested For       : hal.mckinney@enron.com
+Resource Name       : \\\\enehou\\houston\\common\\ERMS\\1intra - [Read/Write]
+Resource Type       : Directory
+
+
+
+

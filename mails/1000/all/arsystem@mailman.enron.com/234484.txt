@@ -1,0 +1,18 @@
+You have received this email because the requester specified you as their 
+Manager's alternate. Please click 
+http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000010092&Page=
+Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000010092
+Approver            : michelle.cash@enron.com
+Request Create Date : 12/12/00 3:00:54 PM
+Requested For       : diane.goode@enron.com
+Resource Name       : VPN
+Resource Type       : Applications
+
+
+
+

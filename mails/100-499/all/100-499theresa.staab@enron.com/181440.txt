@@ -1,0 +1,5 @@
+
+
+Greeley's # for September
+Base:  2700
+Swing:  875

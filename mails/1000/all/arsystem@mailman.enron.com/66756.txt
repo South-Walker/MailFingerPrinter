@@ -1,0 +1,14 @@
+You have received this email because you are listed as a data approver. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000076513&Page=Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000076513
+Request Create Date : 11/19/01 8:37:30 AM
+Requested For       : scott.tackett@enron.com
+Resource Name       : Sitara Houston Production Central Edit Trader
+Resource Type       : Applications
+
+
+
+

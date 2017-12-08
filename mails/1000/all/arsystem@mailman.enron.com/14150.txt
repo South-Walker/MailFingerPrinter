@@ -1,0 +1,15 @@
+This request has been pending your approval for  3 days.  Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000033005&Page=Approval to review and act upon this request.
+
+
+
+
+
+Request ID          : 000000000033005
+Request Create Date : 5/4/01 2:34:18 PM
+Requested For       : daren.j.farmer@enron.com
+Resource Name       : EOL US NatGas NatGas Book to Book (Trader Access - Website)
+Resource Type       : Applications
+
+
+
+

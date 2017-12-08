@@ -1,0 +1,17 @@
+You have received this email because you are listed as a security approver. 
+Please click 
+http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000010210&Page=
+Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000010210
+Request Create Date : 12/13/00 11:33:00 AM
+Requested For       : sirinart.lott@enron.com
+Resource Name       : EOL US Backoffice  Product Data Manager
+Resource Type       : Applications
+
+
+
+

@@ -1,0 +1,14 @@
+You have received this email because the requester specified you as their Manager. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000080799&Page=Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000080799
+Request Create Date : 1/11/02 10:37:33 AM
+Requested For       : israel.estrada@enron.com
+Resource Name       : CQG 5x275
+Resource Type       : Applications
+
+
+
+

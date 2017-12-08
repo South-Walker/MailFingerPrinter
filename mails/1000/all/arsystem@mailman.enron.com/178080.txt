@@ -1,0 +1,15 @@
+This request has been pending your approval for  2 days.  Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000069517&Page=Approval to review and act upon this request.
+
+
+
+
+
+Request ID          : 000000000069517
+Request Create Date : 10/19/01 9:02:46 AM
+Requested For       : richard.shapiro@enron.com
+Resource Name       : Global Messaging North America Additional Mailbox Space (25 Meg Increase)
+Resource Type       : Applications
+
+
+
+

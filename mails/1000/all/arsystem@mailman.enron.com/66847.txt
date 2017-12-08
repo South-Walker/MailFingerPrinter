@@ -1,0 +1,14 @@
+You have received this email because you are listed as a data approver. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000077326&Page=Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000077326
+Request Create Date : 11/27/01 8:39:48 AM
+Requested For       : sunjay.arya@enron.com
+Resource Name       : Sitara Houston Production East Edit Trader
+Resource Type       : Applications
+
+
+
+

@@ -1,0 +1,15 @@
+This request has been pending your approval for  6 days.  Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000038057&Page=Approval to review and act upon this request.
+
+
+
+
+
+Request ID          : 000000000038057
+Request Create Date : 5/31/01 4:11:15 PM
+Requested For       : brad.mckay@enron.com
+Resource Name       : VPN/IPASS
+Resource Type       : Applications
+
+
+
+

@@ -1,0 +1,17 @@
+You have received this email because you are listed as a security approver. 
+Please click 
+http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000009842&Page=
+Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000009842
+Request Create Date : 12/11/00 11:44:19 AM
+Requested For       : anabella.desouza@enron.com
+Resource Name       : EOL US Backoffice  Product Data Manager
+Resource Type       : Applications
+
+
+
+

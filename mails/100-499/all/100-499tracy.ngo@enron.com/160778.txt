@@ -1,0 +1,35 @@
+Bill,
+
+Per your request, below is a list of the counterparties that I've been having 
+discussions with regarding potential bookouts to shift mtm exposure:
+
+    EPMI position in
+Counterparty Name  Current Trading Portfolio Current Margining Status   
+Action Needed
+(A)
+Avista Energy, Inc.   OTM   cp has not margined on power, just financial (2) 
+back to back bookouts (w/Williams & Duke)
+Williams Energy M&T   ITM   Active      cp called on Fri. re. potential 
+bookouts
+Duke Energy Trading and Marketing ITM   EPMI obtaining surety bond   EPMI to 
+propose bookout w/Avista Energy
+
+(B)
+Constellation Power Source  OTM   cp margin called on Thurs.   EPMI needs to 
+get back to cp re.bookout ability
+
+(C)
+Idaho Power Company   ITM   pursuing negotiations w/margining contract cp 
+will entertain a bookout w/El Paso En Mkt
+El Paso Merchant Energy LP  OTM   cp waived margining on power, just 
+financial EPMI to call cp re. bookout w/Idaho Power
+
+(D)
+Tractebel Energy Mkt   OTM   no margining abilities    cp proposed bookout 
+with AEPSC
+American Electric Power (AEPSC) ITM   pursuing negotiations w/margining 
+contract cp considering bookout with Tractebel
+
+
+Call w/any questions,
+Tracy

@@ -1,0 +1,17 @@
+You have received this email because you are listed as a security approver. 
+Please click 
+http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000008593&Page=
+Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000008593
+Request Create Date : 11/29/00 1:57:52 PM
+Requested For       : kara.l.boudreau@enron.com
+Resource Name       : EOL US Backoffice  Bridge Monitor
+Resource Type       : Applications
+
+
+
+

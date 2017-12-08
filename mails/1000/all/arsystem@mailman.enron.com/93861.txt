@@ -1,0 +1,14 @@
+You have received this email because you are listed as a data approver. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000081482&Page=Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000081482
+Request Create Date : 1/23/02 1:59:04 PM
+Requested For       : trudy.sweet@enron.com
+Resource Name       : \\\\nahoutrd\\houston\\pwr\\common\\common\\Power - [Read]
+Resource Type       : Directory
+
+
+
+

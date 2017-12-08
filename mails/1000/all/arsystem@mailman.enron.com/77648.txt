@@ -1,0 +1,17 @@
+You have received this email because you are listed as a security approver. 
+Please click 
+http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000035330&Page=
+Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000035330
+Request Create Date : 5/16/01 4:30:29 PM
+Requested For       : amy.cavazos@enron.com
+Resource Name       : ICE - External Intercontinental Exchange US Natural Gas
+Resource Type       : Applications
+
+
+
+

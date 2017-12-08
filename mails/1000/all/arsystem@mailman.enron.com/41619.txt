@@ -1,0 +1,17 @@
+This resource request has been rejected. You can view the details of the  request by clicking http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000080676&Page=MyReq.
+
+
+
+
+Request ID          : 000000000080676
+Approver Type       : Access
+Signature           : elaine.nguyen@enron.com
+Comments            : Left voicemail with assistant for user to contact me to specify folder.  User has not contacted me. Please submit another eRequest and specify a folder in o:\\tds
+Request Create Date : 1/9/02 3:20:27 PM
+Requested For       : darron.c.giron@enron.com
+Resource Name       : \\\\enehou\\houston\\common - [Read/Write]
+Resource Type       : Directory
+
+
+
+

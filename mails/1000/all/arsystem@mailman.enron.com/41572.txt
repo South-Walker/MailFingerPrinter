@@ -1,0 +1,14 @@
+You have received this email because you are listed as a data approver. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000082069&Page=Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000082069
+Request Create Date : 1/31/02 1:12:41 PM
+Requested For       : kulvinder.fowler@enron.com
+Resource Name       : Sitara Houston Production Central Edit Risk Analytics
+Resource Type       : Applications
+
+
+
+

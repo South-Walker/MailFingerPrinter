@@ -1,0 +1,17 @@
+This request has been pending your approval for  37 days.  Please click 
+http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000029730&Page=
+Approval to review and act upon this request.
+
+
+
+
+
+Request ID          : 000000000029730
+Request Create Date : 4/17/01 5:44:32 PM
+Requested For       : stuart.zisman@enron.com
+Resource Name       : VPN/IPASS
+Resource Type       : Applications
+
+
+
+

@@ -1,0 +1,14 @@
+You have received this email because the requester specified you as their Manager. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000079428&Page=Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000079428
+Request Create Date : 12/17/01 2:23:49 PM
+Requested For       : karen.k.heathman@enron.com
+Resource Name       : TEST version of SAP GUI
+Resource Type       : Applications
+
+
+
+

@@ -1,0 +1,46 @@
+Chip have you had a chance to work with Greg Ford on ADS? Any ideas on the new ADS phase II? 
+
+Thanks,
+Bill
+
+-----Original Message-----
+From: Dunton, Heather 
+Sent: Wednesday, October 03, 2001 1:12 PM
+To: Williams III, Bill
+Cc: Gilbert, Scotty
+Subject: FW: Latest Schedule for ADS Phase II
+
+
+Is anyone working on this - or staying up to date on ADS?
+
+-----Original Message-----
+From: Ford, Greg [mailto:GFord@caiso.com]
+Sent: Wednesday, October 03, 2001 12:36 PM
+To: ADS-Project II; TSWG
+Cc: Rahman, Brian; Lassiter, Mark
+Subject: Latest Schedule for ADS Phase II
+
+
+Market Participants:
+
+The following is the latest schedule for ADS phase II items.  We will be
+splitting the release into two parts.
+
+Release 1 -- OOS/OOM/RMR dispatch:
+Market Sim: 11/12 - 11/16
+Meeting to review dispatched calculated energy: 11/27
+Release to Market: 12/11
+
+Release 2 -- Other phase II items:
+No market sim proposed
+Release to Market: 1/16/02
+
+More details and clarifications regarding OOS/OOM and the remainder of ADS
+phase II will be forthcoming.
+
+Greg Ford
+California ISO
+Market Operations
+(916) 351-2344
+gford@caiso.com
+

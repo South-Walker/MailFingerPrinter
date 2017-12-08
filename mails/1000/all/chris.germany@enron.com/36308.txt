@@ -1,0 +1,35 @@
+We did release it for March, but there is a revenue sharing mechanism in place because TW released the space for us.
+
+The normal demand charge on the contract is $.06 per day.  For March, TW released the space at $.102 and TW gets 50% of the revenue from the release which is calculated as   (.102 - .06) x 50% = $.021.  
+
+ENA's effective demand charge for March is (.102 - .06) x 50% +.06 = $.081 which is the rate we put in sitara #1199508.  We were not sure how TW would show this on the bill for March.
+
+I also changed the demand charge calculation on deal 1190537 (this ticket records the demand charge as and ENA expense).  It was taking the demand rate of $.06 times 700,000 dth per month.  I changed the volume to 25,000 dth per day.
+
+Questions?
+
+Contract	MDQ		Release Rate	Replacement Shipper			Sitara #'s 
+24924		25,000		$.1020 per day	Burlington Resources			1190537 / 1199508
+
+
+ -----Original Message-----
+From: 	Garza, Maria  
+Sent:	Wednesday, April 10, 2002 10:00 AM
+To:	Germany, Chris
+Subject:	RE: TW Capacity Release for April 2002
+
+Thanks...
+
+Did we do this for March...I don't remember...
+
+ -----Original Message-----
+From: 	Germany, Chris  
+Sent:	Wednesday, April 10, 2002 9:48 AM
+To:	Garza, Maria
+Cc:	Concannon, Ruth; Wynne, Rita; Greif, Donna; Germany, Chris; Dinari, Sabra L.
+Subject:	TW Capacity Release for April 2002
+
+I released the following capacity for April 2002 on TW and I updated Sitara with the capacity release information.
+
+Contract	MDQ		Release Rate	Replacement Shipper			Sitara #'s 
+24924		25,000		$.1025 per day	BP Energy			1190537 / 1204524

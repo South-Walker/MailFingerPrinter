@@ -1,0 +1,5 @@
+11:42:26 Synchronizing Mailbox 'Steffes, James D.'
+11:42:26 Synchronizing Hierarchy
+11:42:32 	   148 folder(s) added to offline store
+11:42:32 	   4 folder(s) updated in offline store
+11:42:32 Done

@@ -1,0 +1,11 @@
+The following Audit Observation listed as 'Complete' has been accepted by management:
+OFFICE VISIT: Calgary
+OBSERVATION: Yellow - Foreign currency risks are managed by the respective trader within each of the trading portfolios.
+OBSERVATION CONTACT: CN=Ted Murphy/OU=LON/O=ECT
+ACTION STEP(S): 
+		Provide an analyst to review and determine the most effective process to manage foreign currency risks within the trading portfolios (aggregate or separate).
+TARGET DATE: 11/30/2000
+Click on this link to view document --> 
+IF YOU HAVE ANY QUESTIONS REGARDING THIS EMAIL, PLEASE REPLY TO:CN=Sherri Griffin/OU=Corp/O=Enron
+
+<Embedded StdOleLink>

@@ -1,0 +1,17 @@
+You have received this email because you are listed as a security approver. 
+Please click 
+http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000009797&Page=
+Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000009797
+Request Create Date : 12/11/00 9:39:04 AM
+Requested For       : diana.andel@enron.com
+Resource Name       : EOL Canada Backoffice Data Manager
+Resource Type       : Applications
+
+
+
+

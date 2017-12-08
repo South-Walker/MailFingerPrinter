@@ -1,0 +1,15 @@
+This request has been pending your approval for  17 days.  Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000062862&Page=Approval to review and act upon this request.
+
+
+
+
+
+Request ID          : 000000000062862
+Request Create Date : 9/26/01 4:35:08 PM
+Requested For       : earlene.o'connell@enron.com
+Resource Name       : Risk Acceptance Forms Generic ID's
+Resource Type       : Applications
+
+
+
+

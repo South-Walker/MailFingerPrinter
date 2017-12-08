@@ -1,0 +1,15 @@
+This request has been pending your approval for  85 days.  Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000058213&Page=Approval to review and act upon this request.
+
+
+
+
+
+Request ID          : 000000000058213
+Request Create Date : 9/5/01 1:07:01 PM
+Requested For       : tammie.schoppe@enron.com
+Resource Name       : Global Messaging North America Additional Mailbox Space (25 Meg Increase)
+Resource Type       : Applications
+
+
+
+

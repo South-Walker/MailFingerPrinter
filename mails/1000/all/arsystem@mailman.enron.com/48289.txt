@@ -1,0 +1,16 @@
+This request has been pending approval for  3 days and you are the alternate.  Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000081005&Page=Approval to review and act upon this request.
+
+
+
+
+
+Request ID          : 000000000081005
+Approver            : sandeep.kohli@enron.com
+Request Create Date : 1/15/02 1:04:06 PM
+Requested For       : naveen.andrews@enron.com
+Resource Name       : \\\\enehou\\houston\\common\\Research - [Read/Write]
+Resource Type       : Directory
+
+
+
+

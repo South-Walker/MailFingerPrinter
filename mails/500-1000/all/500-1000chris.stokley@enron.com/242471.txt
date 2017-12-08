@@ -1,0 +1,23 @@
+Did we ever hear back from this guy?
+
+ -----Original Message-----
+From: 	Steiner, David  
+Sent:	Tuesday, July 24, 2001 11:35 AM
+To:	Fussell, Jim
+Cc:	Dietrich, Dan; Hughes, Jeff; Cochinwala, Mustafa; Martinez, Bob
+Subject:	RE: Ees dir
+
+Jim, 
+	As per Dan, I am contacting you for help in setting up a common drive accessible for both EES and Corp users.
+
+I understand that the system allows for CORP user to access EES resources but no vice/versa
+
+In either case, the Corp users that are now assigned to EES projects request 2 NT Groups created that both EES and Corp users can be added to that will allow RW for on group and the other to allow Change to a common directory easily accessible by both groups (with out requiring separate logon).
+
+The Erequest for access should be routed to Jeff Richter (jrichte) for approvals.
+
+Please let me know how long it may be until we can have something available.  If you need anything else please let me know.
+
+Regards, 
+
+Dave

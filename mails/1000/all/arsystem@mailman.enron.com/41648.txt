@@ -1,0 +1,17 @@
+This resource request has been rejected. You can view the details of the  request by clicking http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000080553&Page=MyReq.
+
+
+
+
+Request ID          : 000000000080553
+Approver Type       : Access
+Signature           : shari.daugherty@enron.com
+Comments            : Everyone has access to this.
+Request Create Date : 1/8/02 8:48:21 AM
+Requested For       : darron.c.giron@enron.com
+Resource Name       : \\\\enehou\\houston\\common - [Read/Write]
+Resource Type       : Directory
+
+
+
+

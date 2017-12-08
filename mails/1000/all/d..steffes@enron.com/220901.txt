@@ -1,0 +1,26 @@
+How do I take care of this?
+
+Jim
+
+ -----Original Message-----
+From: 	ARSystem <ARSystem@mailman.enron.com>@ENRON  
+Sent:	Tuesday, December 18, 2001 7:31 PM
+To:	Steffes, James D.
+Subject:	Approval is Overdue: Access Request for alan.comnes@enron.com
+
+This request has been pending approval for  2 days and you are the alternate.  Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000079553&Page=Approval to review and act upon this request.
+
+
+
+
+
+Request ID          : 000000000079553
+Approver            : paul.kaufman@enron.com
+Request Create Date : 12/17/01 5:28:48 PM
+Requested For       : alan.comnes@enron.com
+Resource Name       : eConnect - VPN  Tier 2 - Full Access
+Resource Type       : Applications
+
+
+
+

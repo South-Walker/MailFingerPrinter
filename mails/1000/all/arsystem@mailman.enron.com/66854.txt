@@ -1,0 +1,15 @@
+You have received this email because you are listed as an alternate data approver. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000077382&Page=Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000077382
+Approver            : b.scott.palmer@enron.com
+Request Create Date : 11/27/01 10:49:25 AM
+Requested For       : lisa.hesse@enron.com
+Resource Name       : Sitara Houston Production Upstream Company Edit Deal Compliance
+Resource Type       : Applications
+
+
+
+

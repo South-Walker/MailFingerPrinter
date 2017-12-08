@@ -1,0 +1,15 @@
+This request has been pending your approval for  25 days.  Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000059996&Page=Approval to review and act upon this request.
+
+
+
+
+
+Request ID          : 000000000059996
+Request Create Date : 9/13/01 4:08:34 PM
+Requested For       : alberto.levy@enron.com
+Resource Name       : VPN/IPASS
+Resource Type       : Applications
+
+
+
+
