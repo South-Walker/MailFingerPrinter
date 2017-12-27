@@ -1,4 +1,5 @@
 # MailFingerPrinter
+### it's a Outstanding Winner project
 MailFingerPrinter is our self-developed visual tool for analyzing the different linguistic style between different authors.
 
 <a href="https://github.com/South-Walker/MailFingerPrinter/raw/master/Paper.pdf">Clicking</a> for more details
